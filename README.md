@@ -1,2 +1,2 @@
-# Excel-analysis-projects
-Excel projects using Power Query, Power Pivot, and Data Visualization ..
+# ExcelAnalysisOfImaginaryDataset
+Excel project using Power Query, Power Pivot, DAX and Data Visualization ..
